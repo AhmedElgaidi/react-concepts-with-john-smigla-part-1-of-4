@@ -72,4 +72,4 @@ onClick={ () => eventHandler(author.id) } // pass it as an arrow function
 # During production, just run the npm run build script to build the project and just upload this 'build' folder to andy hosting provider as netlify or github, etc...
 
 
-Start with 03:28 min.
+// this is the end of the basic part in john smigla course on youtube (3:30 from 10h vid)
